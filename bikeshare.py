@@ -110,10 +110,10 @@ def time_stats(df):
     popular_hour = df['hour'].mode()[0]
     print('Most common start trip hour:', popular_hour)
 
-    # TO DO: display the latest in a day start-trip hour
+    # TO DO: display the latest hour in a day that the trip started at
     latest_hour = df['hour'].max()
 
-    print('The latest in a day start-trip hour:', latest_hour)
+    print('The latest hour in a day of the start trip:', latest_hour)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
