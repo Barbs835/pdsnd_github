@@ -28,4 +28,5 @@ All three of the data files contain the same core six (6) columns:
 - bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is a part of nanodegree course at [Udacity - Programming for Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
+Project uses data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
